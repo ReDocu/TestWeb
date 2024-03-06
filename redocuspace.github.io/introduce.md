@@ -1,4 +1,4 @@
 ---
 layout : main_home
-title : Home
+title : introduce
 ---
